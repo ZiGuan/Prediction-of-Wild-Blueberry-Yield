@@ -8,9 +8,9 @@ Submissions will be evaluated using Mean Absolute Error (MAE):
 
 where each `x_i` represents the predicted target, `y_i` represents the ground truth, and `n` is the number of rows in the test set.
 
-The evaluation of each algorithms: </br>
+The evaluation of each algorithms: 
 
-![](images/evaluation.png) </br> </br>
+![](images/evaluation.png) </br> 
 
 `LADRegression` was chosen for the prediction of wild blueberry yield because it had the lower `MAE` value.
 
