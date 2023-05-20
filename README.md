@@ -12,6 +12,6 @@ The evaluation of each algorithms:
 
 ![](images/evaluation.png) </br> 
 
-`LADRegression` was chosen for the prediction of wild blueberry yield because it had the lower `MAE` value.
+`LADRegression` was chosen for the prediction of wild blueberry yield because it had the lower `MAE` value from the test set.
 
 
